@@ -1,4 +1,4 @@
-# GWT
+# GTW
 
 
 Github to Wordlist     
