@@ -13,4 +13,5 @@ Just a little tool to turn a github repository into a wordlist
   optional arguments:
     -h, --help  show this help message and exit
     -u GIT_URL  URL git [required]. Ex: '-u https://github.com/c0dejump/HawkScan.git'
+    -o OUTPUT   Output (default in directory)
 ```
